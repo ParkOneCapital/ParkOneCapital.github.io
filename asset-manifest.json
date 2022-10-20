@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.5cada25c.css",
-    "main.js": "/static/js/main.ee79a603.js",
+    "main.css": "/static/css/main.d91afd13.css",
+    "main.js": "/static/js/main.c395e710.js",
+    "static/media/app_screen.jpg": "/static/media/app_screen.b58f3969cc5e5ce31053.jpg",
     "static/media/blue_nubly.jpg": "/static/media/blue_nubly.0c72faaf606145f7ab38.jpg",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.5cada25c.css",
-    "static/js/main.ee79a603.js"
+    "static/css/main.d91afd13.css",
+    "static/js/main.c395e710.js"
   ]
 }

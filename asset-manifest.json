@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.46721b85.css",
+    "main.css": "/static/css/main.2f0bf552.css",
     "main.js": "/static/js/main.53b2b097.js",
     "static/media/hello_world.mp4": "/static/media/hello_world.5ae9802f8d83aa08cb77.mp4",
     "static/media/photo_3.png": "/static/media/photo_3.c39b3432610c98b6056b.png",
@@ -20,7 +20,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.46721b85.css",
+    "static/css/main.2f0bf552.css",
     "static/js/main.53b2b097.js"
   ]
 }

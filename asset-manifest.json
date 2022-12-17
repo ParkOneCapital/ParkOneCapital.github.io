@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c7cf8ae.css",
-    "main.js": "/static/js/main.e096e872.js",
+    "main.css": "/static/css/main.46721b85.css",
+    "main.js": "/static/js/main.53b2b097.js",
     "static/media/hello_world.mp4": "/static/media/hello_world.5ae9802f8d83aa08cb77.mp4",
+    "static/media/photo_3.png": "/static/media/photo_3.c39b3432610c98b6056b.png",
+    "static/media/photo_1.png": "/static/media/photo_1.4303cbd94574c1c3410f.png",
+    "static/media/photo_2.png": "/static/media/photo_2.d35a0e56e98c0a236183.png",
     "static/media/headshot_2.png": "/static/media/headshot_2.c5c9c83fddd7a20b06e3.png",
-    "static/media/app_screen.png": "/static/media/app_screen.c92d4f6cb6f002b8f220.png",
+    "static/media/app_screen_home.png": "/static/media/app_screen_home.074d27e29c589e31afb0.png",
     "static/media/headshot_1.png": "/static/media/headshot_1.3ed354a87a36fedaacc5.png",
-    "static/media/graph.png": "/static/media/graph.6a335ec6e282e745505a.png",
+    "static/media/app_screen_portfolio.png": "/static/media/app_screen_portfolio.ee9e36cd6bb39dadb7b6.png",
+    "static/media/app_screen_goals.png": "/static/media/app_screen_goals.403d569fc1e22eff5b45.png",
+    "static/media/blue_overlay.png": "/static/media/blue_overlay.a43e3b5c17ca623b5299.png",
+    "static/media/yellow_overlay.png": "/static/media/yellow_overlay.a339a4cf7338d48000ac.png",
+    "static/media/goal_card_1.png": "/static/media/goal_card_1.8ed33684a030cb346140.png",
+    "static/media/goal_card_2.png": "/static/media/goal_card_2.3fe16ccd95c958abc165.png",
     "static/media/instagram.png": "/static/media/instagram.783e76f1deec12d58b4c.png",
     "static/media/blue_nubly.png": "/static/media/blue_nubly.0e7db77eab1da6edd788.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.0c7cf8ae.css",
-    "static/js/main.e096e872.js"
+    "static/css/main.46721b85.css",
+    "static/js/main.53b2b097.js"
   ]
 }

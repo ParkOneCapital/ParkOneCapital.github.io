@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.40765dee.css",
+    "main.css": "/static/css/main.3bac7cd7.css",
     "main.js": "/static/js/main.5e3770fd.js",
     "static/media/hello_world.mp4": "/static/media/hello_world.5ae9802f8d83aa08cb77.mp4",
     "static/media/photo_3.png": "/static/media/photo_3.c39b3432610c98b6056b.png",
@@ -18,7 +18,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.40765dee.css",
+    "static/css/main.3bac7cd7.css",
     "static/js/main.5e3770fd.js"
   ]
 }

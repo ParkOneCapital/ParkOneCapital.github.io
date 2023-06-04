@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2eabf77.css",
-    "main.js": "/static/js/main.1a3b1195.js",
-    "static/media/nubly_onboard_portfolio.mp4": "/static/media/nubly_onboard_portfolio.f3a9a18e86d804adef85.mp4",
-    "static/media/nubly_portfolio_goal_2.mp4": "/static/media/nubly_portfolio_goal_2.3c073f0d93f5d4b9946d.mp4",
-    "static/media/nubly_portfolio_goal_3.mp4": "/static/media/nubly_portfolio_goal_3.4e188a5e66238b142a29.mp4",
+    "main.css": "/static/css/main.039be972.css",
+    "main.js": "/static/js/main.6e4bdfbd.js",
+    "static/media/nubly_onboard_portfolio.mp4": "/static/media/nubly_onboard_portfolio.3b3b99623fc5c1f00016.mp4",
+    "static/media/nubly_portfolio_goal_2.mp4": "/static/media/nubly_portfolio_goal_2.2939f31b24810b1781bc.mp4",
+    "static/media/nubly_portfolio_goal_3.mp4": "/static/media/nubly_portfolio_goal_3.92a8c430930484cd7e76.mp4",
     "static/media/nubly_fund_goal.mp4": "/static/media/nubly_fund_goal.b48b6f86bb244200c809.mp4",
     "static/media/nubly_user_onboarding.mp4": "/static/media/nubly_user_onboarding.544cea89e9f15c46dfcb.mp4",
     "static/media/photo_3.png": "/static/media/photo_3.c39b3432610c98b6056b.png",
@@ -22,7 +22,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.d2eabf77.css",
-    "static/js/main.1a3b1195.js"
+    "static/css/main.039be972.css",
+    "static/js/main.6e4bdfbd.js"
   ]
 }

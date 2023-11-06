@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.039be972.css",
-    "main.js": "/static/js/main.73ebd37a.js",
+    "main.css": "/static/css/main.261c47fd.css",
+    "main.js": "/static/js/main.16a9d9d7.js",
     "static/media/nubly_onboard_portfolio.mp4": "/static/media/nubly_onboard_portfolio.3b3b99623fc5c1f00016.mp4",
     "static/media/nubly_portfolio_goal_2.mp4": "/static/media/nubly_portfolio_goal_2.2939f31b24810b1781bc.mp4",
     "static/media/nubly_portfolio_goal_3.mp4": "/static/media/nubly_portfolio_goal_3.92a8c430930484cd7e76.mp4",
@@ -10,19 +10,26 @@
     "static/media/photo_3.png": "/static/media/photo_3.c39b3432610c98b6056b.png",
     "static/media/photo_1.png": "/static/media/photo_1.4303cbd94574c1c3410f.png",
     "static/media/photo_2.png": "/static/media/photo_2.d35a0e56e98c0a236183.png",
+    "static/media/trip_to_bahamas.png": "/static/media/trip_to_bahamas.d3218df433e51bec3935.png",
+    "static/media/home_down_payment.png": "/static/media/home_down_payment.8556a52135fb91c5c5fe.png",
     "static/media/headshot_2.png": "/static/media/headshot_2.c5c9c83fddd7a20b06e3.png",
-    "static/media/app_screen_home.png": "/static/media/app_screen_home.074d27e29c589e31afb0.png",
     "static/media/headshot_1.png": "/static/media/headshot_1.3ed354a87a36fedaacc5.png",
-    "static/media/app_screen_portfolio.png": "/static/media/app_screen_portfolio.ee9e36cd6bb39dadb7b6.png",
-    "static/media/app_screen_goals.png": "/static/media/app_screen_goals.403d569fc1e22eff5b45.png",
-    "static/media/goal_card_1.png": "/static/media/goal_card_1.8ed33684a030cb346140.png",
-    "static/media/goal_card_2.png": "/static/media/goal_card_2.3fe16ccd95c958abc165.png",
+    "static/media/app_screen_savings.png": "/static/media/app_screen_savings.e0d2702870f1a1e3ad4f.png",
+    "static/media/app_screen_home.png": "/static/media/app_screen_home.e6faad75cd74b7a9b25f.png",
+    "static/media/app_screen_portfolio.png": "/static/media/app_screen_portfolio.a48904a214c0914b3c8c.png",
+    "static/media/retirement_goal.png": "/static/media/retirement_goal.54ff43d4dd1b4c10b4be.png",
+    "static/media/app_screen_home_lock.png": "/static/media/app_screen_home_lock.4aa0dc8718279055afc4.png",
+    "static/media/emergency_fund.png": "/static/media/emergency_fund.983317802835a5eb0c8b.png",
+    "static/media/fancy_dinner_saving.png": "/static/media/fancy_dinner_saving.05101a31835c9f7e7ddb.png",
+    "static/media/notification_2.png": "/static/media/notification_2.954840ccd64cc4d023c2.png",
+    "static/media/dream_car.png": "/static/media/dream_car.edc6a6615f05d9589cbe.png",
     "static/media/instagram.png": "/static/media/instagram.783e76f1deec12d58b4c.png",
     "static/media/blue_nubly.png": "/static/media/blue_nubly.0e7db77eab1da6edd788.png",
+    "static/media/notification_1.png": "/static/media/notification_1.c59abc8d617e04b48cbc.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.039be972.css",
-    "static/js/main.73ebd37a.js"
+    "static/css/main.261c47fd.css",
+    "static/js/main.16a9d9d7.js"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.261c47fd.css",
+    "main.css": "/static/css/main.6b66583a.css",
     "main.js": "/static/js/main.16a9d9d7.js",
     "static/media/nubly_onboard_portfolio.mp4": "/static/media/nubly_onboard_portfolio.3b3b99623fc5c1f00016.mp4",
     "static/media/nubly_portfolio_goal_2.mp4": "/static/media/nubly_portfolio_goal_2.2939f31b24810b1781bc.mp4",
@@ -29,7 +29,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.261c47fd.css",
+    "static/css/main.6b66583a.css",
     "static/js/main.16a9d9d7.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ebdb3d3d.css",
-    "main.js": "/static/js/main.278c5ee5.js",
+    "main.js": "/static/js/main.25b5ef2b.js",
     "static/media/nubly_onboard_portfolio.mp4": "/static/media/nubly_onboard_portfolio.3b3b99623fc5c1f00016.mp4",
     "static/media/nubly_portfolio_goal_2.mp4": "/static/media/nubly_portfolio_goal_2.2939f31b24810b1781bc.mp4",
     "static/media/baas_overview.pdf": "/static/media/baas_overview.e90e3f86462f23cd5b8b.pdf",
@@ -10,7 +10,7 @@
     "static/media/nubly_user_onboarding.mp4": "/static/media/nubly_user_onboarding.544cea89e9f15c46dfcb.mp4",
     "static/media/photo_3.png": "/static/media/photo_3.c39b3432610c98b6056b.png",
     "static/media/photo_1.png": "/static/media/photo_1.4303cbd94574c1c3410f.png",
-    "static/media/modern_fintech_future.pdf": "/static/media/modern_fintech_future.1409c24a5f69f70910f9.pdf",
+    "static/media/modern_fintech_future.pdf": "/static/media/modern_fintech_future.ac7f875d83ef7b6bfb55.pdf",
     "static/media/photo_2.png": "/static/media/photo_2.d35a0e56e98c0a236183.png",
     "static/media/trip_to_bahamas.png": "/static/media/trip_to_bahamas.d3218df433e51bec3935.png",
     "static/media/home_down_payment.png": "/static/media/home_down_payment.8556a52135fb91c5c5fe.png",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.ebdb3d3d.css",
-    "static/js/main.278c5ee5.js"
+    "static/js/main.25b5ef2b.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.08e923d1.css",
-    "main.js": "/static/js/main.21a7f371.js",
+    "main.js": "/static/js/main.3343dbcd.js",
     "static/media/nubly_onboard_portfolio.mp4": "/static/media/nubly_onboard_portfolio.3b3b99623fc5c1f00016.mp4",
     "static/media/Investment_Goals.mp4": "/static/media/Investment_Goals.0655b6ac889e6a641f4c.mp4",
     "static/media/Nubly_Sign_Up.mp4": "/static/media/Nubly_Sign_Up.078117a1029dab68636b.mp4",
@@ -10,9 +10,12 @@
     "static/media/nubly_portfolio_goal_3.mp4": "/static/media/nubly_portfolio_goal_3.92a8c430930484cd7e76.mp4",
     "static/media/nubly_fund_goal.mp4": "/static/media/nubly_fund_goal.b48b6f86bb244200c809.mp4",
     "static/media/nubly_user_onboarding.mp4": "/static/media/nubly_user_onboarding.544cea89e9f15c46dfcb.mp4",
+    "static/media/savings_chat.m4v": "/static/media/savings_chat.4f98bb8bc9d525234bf7.m4v",
     "static/media/Savings_Goal.mp4": "/static/media/Savings_Goal.20459b1d1375fd342839.mp4",
+    "static/media/general_chat.m4v": "/static/media/general_chat.89696c63192a891da171.m4v",
     "static/media/photo_3.png": "/static/media/photo_3.c39b3432610c98b6056b.png",
     "static/media/photo_1.png": "/static/media/photo_1.4303cbd94574c1c3410f.png",
+    "static/media/investing_chat.m4v": "/static/media/investing_chat.47e92655a6ea52a82b3c.m4v",
     "static/media/modern_fintech_future.pdf": "/static/media/modern_fintech_future.3eb9a1a8735bd50da224.pdf",
     "static/media/photo_2.png": "/static/media/photo_2.d35a0e56e98c0a236183.png",
     "static/media/the_modern_cdfi.pdf": "/static/media/the_modern_cdfi.83cf7fb2a6dfa637b04f.pdf",
@@ -38,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.08e923d1.css",
-    "static/js/main.21a7f371.js"
+    "static/js/main.3343dbcd.js"
   ]
 }

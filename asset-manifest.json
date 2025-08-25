@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.08e923d1.css",
-    "main.js": "/static/js/main.fbe12bb5.js",
+    "main.js": "/static/js/main.23e9a265.js",
     "static/media/investing_chat.m4v": "/static/media/investing_chat.f0340f1fb283d8c96cf2.m4v",
     "static/media/nubly_onboard_portfolio.mp4": "/static/media/nubly_onboard_portfolio.3b3b99623fc5c1f00016.mp4",
     "static/media/Investment_Goals.mp4": "/static/media/Investment_Goals.0655b6ac889e6a641f4c.mp4",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.08e923d1.css",
-    "static/js/main.fbe12bb5.js"
+    "static/js/main.23e9a265.js"
   ]
 }

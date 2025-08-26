@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.f5a5acb3.css",
-    "main.js": "/static/js/main.38f634ba.js",
+    "main.js": "/static/js/main.fe25ace9.js",
     "static/media/investing_chat.m4v": "/static/media/investing_chat.f0340f1fb283d8c96cf2.m4v",
     "static/media/nubly_onboard_portfolio.mp4": "/static/media/nubly_onboard_portfolio.3b3b99623fc5c1f00016.mp4",
-    "static/media/hello_world.mov": "/static/media/hello_world.200e82b7cc2caf58b485.mov",
+    "static/media/hello_world.mov": "/static/media/hello_world.156416514c73e41deada.mov",
     "static/media/Investment_Goals.mp4": "/static/media/Investment_Goals.0655b6ac889e6a641f4c.mp4",
     "static/media/Nubly_Sign_Up.mp4": "/static/media/Nubly_Sign_Up.078117a1029dab68636b.mp4",
     "static/media/nubly_portfolio_goal_2.mp4": "/static/media/nubly_portfolio_goal_2.2939f31b24810b1781bc.mp4",
@@ -42,6 +42,6 @@
   },
   "entrypoints": [
     "static/css/main.f5a5acb3.css",
-    "static/js/main.38f634ba.js"
+    "static/js/main.fe25ace9.js"
   ]
 }
